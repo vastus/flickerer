@@ -1,0 +1,9 @@
+# dirs
+node_modules/
+
+# files
+public/index.html
+public/bundle.js
+
+# misc
+*.swp
