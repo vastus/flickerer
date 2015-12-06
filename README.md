@@ -1,4 +1,4 @@
-# Flikerer
+# Flickerer
 
 Search Flickr for photos.
 
